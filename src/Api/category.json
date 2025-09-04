@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Running",
+    "description": "Shoes designed for speed, grip, and comfort during running.",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": 2,
+    "name": "Casual",
+    "description": "Everyday sneakers that blend style and comfort.",
+    "image": "https://images.unsplash.com/photo-1543508282-6319a3e2621f?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": 3,
+    "name": "Outdoor",
+    "description": "Durable footwear for hiking, trekking, and rough terrains.",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCwaDNnJmk9bgN6jNWAK9o8qeTthdtVY_ZVJkzLtzQWluSXR30cf6Cbh1R4l3v1heA2YxAQqB1OieoGyMRUgfXGOY7kRnVuU1FFIwbP16rDvHF7RPhNRsKYd00WWB1XzwgrWtzrRxp2Ey5bNEybXivef1dDWbnHgfFpEQ3z3RXpRPbSCA3m7-plinRBpz8dO2_Qr7fF-HFEQ0QbI6v5cSSzWVYFili-RplBiZ_6LMGCVYbG8b32siXzzu8ZxCF9sNigOB0iHAagfGk"
+  },
+  {
+    "id": 4,
+    "name": "Sports",
+    "description": "High-performance shoes for basketball, tennis, and other sports.",
+    "image": "https://images.unsplash.com/photo-1543508282-6319a3e2621f?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": 5,
+    "name": "Skate",
+    "description": "Shoes built for skateboarding with extra grip and durability.",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCbtwLeon60Y6CRVAG43Z2p_0CSa8nBh5YrhZSpEKXNkqVDWs2_nmMG846JUTa61t7-ZdZMqfh3sk-6Sl1bLx_rQpNNV2WAT03y0uwqqzBCEG-b4RdH6m6AYzlCpVJPHVwokIh04uyDBFwAVVzML5N0Am1CoYh1UrhlX0O1Rqn6TbpqFmtjVsRvDC_s2HE-F4dJO0LU28CryzVKJPb5SlU_g9SM5usgY9XUYsescqoKhAImyW9_ai6fbI5xb6csqf7CPjqQ4mjLXxE"
+  },
+  {
+    "id": 6,
+    "name": "Training",
+    "description": "Versatile shoes designed for gym and cross-training.",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCs85T5mOKOHVyLkwGIol6Yjp4ZHixsXwha5MFOhckswC-RVfA3e7TIefjQeUBVwtyvt-uMSiJwuSB52mVShgFXVEm1vjBvWU-N-J7oBhV5u3lEHji_A7ctWR44jrN6Oqb3ZzaoqUrw4mS7uNBC71WDJrU9MIXRqvFqyqarNS5ya06ces7fdmf2Rid_O_05g7n5ukdyLBZbvy0RPJmGxk90uI73CuTpgvIT65TrotG9Gn8L3bwfaLmMnY0wE4I1YfH0qBsOAmE5eF8"
+  }
+]

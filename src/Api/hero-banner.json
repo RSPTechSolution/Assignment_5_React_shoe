@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Find Your Perfect Fit",
+    "description": "Shoes designed for speed, grip, and comfort during running.",
+    "image": "/images/shoecase.png",
+    "for": "home"
+  },
+  {
+    "id": 1,
+    "name": "Men's Collections",
+    "description": "Shoes designed for speed, grip, and comfort during running.",
+    "image": "/images/hero-men.png",
+    "for": "men"
+  },
+  {
+    "id": 1,
+    "name": "Women's Collections",
+    "description": "Shoes designed for speed, grip, and comfort during running.",
+    "image": "/images/hero-women.png",
+    "for": "women"
+  },
+  {
+    "id": 1,
+    "name": "Kid's Collections",
+    "description": "Shoes designed for speed, grip, and comfort during running.",
+    "image": "/images/hero-kids.png",
+    "for": "kid"
+  }
+]

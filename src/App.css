@@ -1,0 +1,22 @@
+/* ✅ Imports must always be at the top */
+@import "tailwindcss";
+
+/* ✅ Then your custom CSS */
+:root {
+  --primary-color: #ea2a33;
+  --background-color: #1a1a1a;
+  --surface-color: #2c2c2c;
+  --primary-text-color: #ffffff;
+  --secondary-text-color: #a3a3a3;
+  --border-color: #363636;
+  --accent-color: #4f4f4f;
+  --border: 240 3.7% 15.9%;
+}
+
+body {
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+span.order-confirm svg {
+  font-size: 10rem;
+}
